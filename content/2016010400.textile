@@ -1,16 +1,9 @@
 
-h3. Установка и настройка NFS-сервера и клиента
+h3. FlyHub - инструкция по подключению и настройке (черновик)
 
-h5(. Tags: "draft":/tags#draft | "debian":/tags#debian | "nfs":/tags#nfs | "server":/tags#server | "software":/tags#software
+h5(. Tags: "draft":/tags#draft | "flyhub":/tags#flyhub
 
 ---
-
-%title FlyHub - инструкция по подключению и настройке (черновик)
-%date 2016-01-04
-%tags draft  flyhub
-%posts_page True
-
-
 
 h4. Разделы инструкции по настройке:
 
