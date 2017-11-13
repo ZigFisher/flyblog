@@ -1,0 +1,20 @@
+
+h3. Подборка заметок по командам и программам в Debian
+
+h5(. Tags: "debian":/tags#debian | "linux":/tags#linux
+
+---
+
+h4. Новый заголовок раздела
+
+p. Новый абзац  предложения
+
+---
+
+h4. ffmpeg
+
+* @ffmpeg -i 1.mp3 -acodec copy -ss 00:03:44 -t 01:00:00 2.mp3@ - вырезать часть .mp3 файла
+
+* "HabraHabr: 19 команд ffmpeg для любых нужд":https://habrahabr.ru/post/171213/
+
+---

@@ -1,0 +1,31 @@
+
+h3. -Установка и настройка NFS-сервера и клиента- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "debian":/tags#debian | "nfs":/tags#nfs | "server":/tags#server | "software":/tags#software
+
+---
+
+h4. Команды
+
+pre. # Установка сервера
+apt-get install --no-install-recommends nfs-kernel-server
+
+pre. # Установка клиентской части
+apt-get install --no-install-recommends nfs-common
+
+pre. # Монтирование NFS каталога на клиенте
+mount -t nfs 172.17.32.17:/sync /mnt/nfs
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "Установка и настройка NFS-сервера и клиента на Ubuntu":https://kamaok.org.ua/?p=1122
+* "How To Set Up an NFS Mount on Ubuntu 14.04":https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-14-04
+

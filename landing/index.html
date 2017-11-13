@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- meta http-equiv="REFRESH" content="300" -->
+
+    <meta name="yandex-verification" content="c931af81c8459f60" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="flymon, flyrouter, zftlab, monitoring, time series, alerting, metrics, telemetry">
+    <meta name="description" content="FlyBlog">
+    <meta name="author" content="ZFT Lab.">
+
+    <title>FlyBlog</title>
+
+    <!-- Le styles from GUS for images and comments -->
+    <!--link href="/assets/bootstrap/css/bootstrap-spacelab.min.css" rel="stylesheet">
+    <link href="/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet"  type="text/css" -->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Site icon -->
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/assets/images/favicon.ico" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Bootswatch CSS -->
+    <!-- link href="/assets/bootswatch/css/bootswatch_cerulean.css" rel="stylesheet" type="text/css" -->
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/microblog/css/microblog.css" rel="stylesheet" type="text/css">
+
+    <!-- Font Awesome -->
+    <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  </head>
+
+
+  <body>
+
+    <!-- nav class="navbar navbar-default navbar-static-top" -->
+    <!-- nav class="navbar navbar-default navbar-fixed-top" -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <!-- div class="container-fluid" -->
+      <div class="container">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><i class="fa fa-flask"></i> The BETA page...</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+
+        <!-- Collection <i class="fa fa-line-chart"></i> <i class="fa fa-key"></i> <i class="fa fa-leaf"></i>  <i class="fa fa-bullhorn"></i> <i class="fa fa-wrench"></i> -->
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> О ресурсе<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/survey"><i class="fa fa-book"></i> &nbsp; Страницы</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/tags"><i class="fa fa-list"></i> &nbsp; Теги</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/news"><i class="fa fa-newspaper-o"></i> &nbsp; Новости</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/technology"><i class="fa fa-cogs"></i> &nbsp; Технологии</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/contacts"><i class="fa fa-address-book-o"></i> &nbsp; Контакты</a></li>
+                <!-- li role="separator" class="divider"></li>
+                <li><a href="/store"> Магазин</a></li -->
+                <!-- li role="separator" class="divider"></li>
+                <li><a href="/resume">  Resume</a></li -->
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Сервисы<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://flyhub.org"><i class="fa fa-thermometer-3"></i>  &nbsp; FlyHub (переход)</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/2016010400"> &nbsp; FlyHub (черновик статьи)</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://wifi-iot.com"><i class="fa fa-building-o"></i> &nbsp; WiFi-IoT (конструктор)</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/2015022300"><i class="fa fa-wechat"></i>  &nbsp; WiFi-IoT (чат-канал)</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/charts/?macs=5CCF7F0CB1F3,18FE34A012D3&graphs=temp&period=1h"><i class="fa fa-line-chart"></i> &nbsp; Графики</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://console.flymon.net/#source=dashboard/dmitdmgp_mqtt.json"><i class="fa fa-dashboard"></i> &nbsp; Дашборд (устарел)</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/ipcam"><i class="fa fa-camera-retro"></i> &nbsp; IP камеры</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/mqtt.html"><i class="fa fa-wifi"></i> &nbsp; MQTT монитор (отключён)</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> ZFT Lab.<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://zftlab.org/categories.html"><i class="fa fa-book"></i> &nbsp; Все статьи</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/contacts.html"><i class="fa fa-address-book-o"></i> &nbsp; Контакты</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/partners.html"><i class="fa fa-user-secret"></i> &nbsp; Партнёры</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/store.html"><i class="fa fa-shopping-cart"></i> &nbsp; Магазин</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://blog.flyrouter.net"><i class="fa fa-google"></i> &nbsp; Blogger page</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="https://github.com/ZigFisher?tab=repositories"> <i class="fa fa-github"></i> &nbsp; GitHub</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="https://money.yandex.ru/to/410011741171832"><i class="fa fa-money"></i> &nbsp; YandexMoney</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Файлы<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://zftlab.org/files.html"><i class="fa fa-diamond"></i> &nbsp; Архив ZFT Lab.</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://flyrouter.net/downloads/software/"><i class="fa fa-diamond"></i> &nbsp; Архив FlyRouter</a></li>
+              </ul>
+            </li>
+
+
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- MicroBlog content -->
+      <div class="main">
+        <div id="content"></div>
+        <div id="chart"></div>
+      </div>
+
+      <footer>
+        <hr>
+        <p class="pull-left">FlyBlog &copy; 2017 v.0.3a</p>
+        <p class="pull-right">Created by <a href="http://zftlab.org" title="Go to ZFTLab.org">ZFT Lab.</a></p>
+        <!-- center -->
+        <!-- Yandex.Metrika informer -->
+        <!-- a href="https://metrika.yandex.ru/stat/?id=46128954&amp;from=informer" target="_blank" rel="nofollow">
+          <img src="https://informer.yandex.ru/informer/46128954/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+            style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня"
+            class="ym-advanced-informer" data-cid="46128954" data-lang="ru" /></a>
+          <br><br>
+        </center -->
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- MicroBlog -->
+    <script src="/assets/microblog/js/textile.min.js"></script>
+    <script src="/assets/microblog/js/microblog.js"></script>
+
+    <!-- Crutch -->
+    <script src="/assets/crutch/js/lodash.min.js"></script>
+    <script src="/assets/crutch/js/influxdb-latest.js"></script>
+    <script src="/assets/crutch/js/highcharts.js"></script>
+    <script src="/assets/crutch/js/gray.js"></script>
+    <script src="/assets/crutch/js/graphs.js"></script>
+    <script src="/assets/crutch/js/crutch.js"></script>
+
+
+    <!-- Google -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-1517986-9', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- Yandex -->
+    <script type="text/javascript" >
+      (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+          try {
+            w.yaCounter46128954 = new Ya.Metrika({
+              id:46128954,
+              clickmap:true,
+              trackLinks:true,
+              accurateTrackBounce:true
+            });
+          } catch(e) { }
+         });
+         var n = d.getElementsByTagName("script")[0],
+           s = d.createElement("script"),
+           f = function () { n.parentNode.insertBefore(s, n); };
+         s.type = "text/javascript";
+         s.async = true;
+         s.src = "https://mc.yandex.ru/metrika/watch.js";
+         if (w.opera == "[object Opera]") {
+           d.addEventListener("DOMContentLoaded", f, false);
+         } else { f(); }
+      })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript>
+      <div><img src="https://mc.yandex.ru/watch/46128954" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+
+
+  </body>
+
+</html>

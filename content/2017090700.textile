@@ -1,0 +1,28 @@
+
+h3. -Установка принтеров HP LaserJet и Canon LBP в Debian- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "debian":/tags#debian | "linux":/tags#linux | "printer":/tags#printer
+
+---
+
+h4. Установка принтера HP LaserJet 1018
+
+pre. #
+sudo hp-setup -i
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "Установка принтера HP LaserJet 1018":https://kubuntu.ru/node/9875
+
+* "Установка принтеров Canon серии LBP в Ubuntu":https://habrahabr.ru/post/312228/
+* "Как установить принтер Canon LBP-2900 в Linux Ubuntu?":https://itshaman.ru/articles/98/kak-ustanovit-printer-canon-lbp-2900-v-linux-ubuntu
+* "Установка драйвера Canon CAPT для принтеров Canon LBP":http://help.ubuntu.ru/wiki/canon_capt
+

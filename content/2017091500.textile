@@ -1,0 +1,18 @@
+
+h3. -Заметки при эксплуатации роутера NEXX WT3020- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "hardware":/tags#hardware | "router":/tags#router
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "MySKU: NEXX 3020H external antenna mod":https://mysku.ru/blog/china-stores/32646.html
+* "4pda: NEXX WT3020 [A/H/F ревизий]. Обсуждение, прошивка, настройка, предложения":http://4pda.ru/forum/index.php?showtopic=684260
+* "RouterClub: Nexx 3020":https://routerclub.ru/discussion/4/nexx-3020

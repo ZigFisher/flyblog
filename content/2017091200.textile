@@ -1,0 +1,27 @@
+
+h3. -Установка и настройка системы сбора данных Collectd- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "collectd":/tags#collectd | "debian":/tags#debian | "linux":/tags#linux
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "Collectd Wiki: List of front-ends":https://collectd.org/wiki/index.php/Front-end
+* "Collectd Wiki: SNMP plugin":https://collectd.org/wiki/index.php/Plugin:SNMP
+* "Collectd man page - SNMP":https://collectd.org/documentation/manpages/collectd-snmp.5.shtml
+* "HabraHabr: Установка и настройка Collectd для сбора и отправки данных в Graphite":https://habrahabr.ru/post/302840/
+
+* "Jarmon: A Javascript library for creating interactive charts from RRD data":https://launchpad.net/jarmon
+
+* "Facette: Missing metrics with collectd":https://github.com/facette/facette/issues/332
+* "Facette: Oficial documentation":https://docs.facette.io/
+* "GitHub: Facette releases":https://github.com/facette/facette/releases
+
+* "Nginx RRD Graph":https://www.nginx.com/resources/wiki/modules/rrd_graph/

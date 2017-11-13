@@ -1,0 +1,17 @@
+
+h3. -Заметки при работе с оборудованием Mikrotik- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "hardware":/tags#hardware | "mikrotik":/tags#mikrotik
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "Полезные скрипты для mikrotik RouterOS":http://www.unix.ck.ua/content/skripy-dlya-mikrota
+* "Написание скриптов для RouterOS":https://telecom-sales.ru/content/stati/rukovodstvo-po-napisaniyu-skriptov-k-mikrotik-routeros/

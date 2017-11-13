@@ -1,0 +1,39 @@
+
+h3. -Название тестовой страницы-
+
+h5. Tags: | "test":/tags#test | "textile":/tags#textile | "zftlab":/tags#zftlab |
+
+---
+
+h4. Новый заголовок раздела
+
+p. Новый абзац  предложения
+
+---
+
+h4. Фото
+
+!/images/2017101301.jpg!
+
+---
+
+h4. Код и цитаты
+
+pre. Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1 Test-1
+
+bc. Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2 Test-2
+
+bq. Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3 Test-3
+
+---
+
+h4. Внутренние ссылки
+
+* "Тестовая страница 0000000000":http://hugo.zftlab.org/#!/0000000000
+
+---
+
+h4. Внешние ссылки
+
+* "Простой мониторинг":http://monitor.flymon.net
+* "Старый сайт FlyRouter":http://flyrouter.net

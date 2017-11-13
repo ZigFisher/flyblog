@@ -1,0 +1,15 @@
+
+h3. Тестовая страница
+
+---
+
+h4. Тестирование ссылок
+
+* "OK, default - /2018010100            ":/2018010100
+* "OK, redirect - /pages/2018010100     ":/pages/2018010100
+* "OK, redirect - /pages/2018010100.html":/pages/2018010100.html
+* "OK, redirect - /2018010100.html      ":/2018010100.html
+* "OK, redirect - /notfound.txt         ":/notfound.txt
+* "OK, redirect - /notfound             ":/notfound
+* "ОК, normal - /files/                 ":/files/
+

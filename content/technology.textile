@@ -1,0 +1,47 @@
+
+h3. Используемые технологии
+
+---
+
+h4. Компоненты
+
+* "bootstrap-3.3.7":http://getbootstrap.com/
+* "bootswatch-3.3.7":http://bootswatch.com/
+* "font-awesome-4.7.0":http://fontawesome.io/
+* "jquery-3.2.1":https://jquery.com/download/
+* "lightgallery-1.4":https://github.com/ischenkodv/lightgallery
+* "textile-js-2.0.4":https://github.com/borgar/textile-js
+
+---
+
+h4. Собственные разработки
+
+* "crutch-1.2.4":http://zftlab.org
+* "microblog-1.1.6":http://zftlab.org
+
+---
+
+h4. Безопасность
+
+* "Let’s Encrypt is a free, automated, and open Certificate Authority":https://letsencrypt.org/
+
+---
+
+h4. Статистика
+
+* "Яндекс.Метрика - новые возможности для веб-аналитики":https://metrika.yandex.ru
+
+---
+
+h4. Проверка кода
+
+* "The W3C Markup Validation Service":https://validator.w3.org/
+
+---
+
+h4. Справочник
+
+* "Полная сборка из 675 иконок Font Awesome 4.7.0":http://fontawesome.ru/all-icons/
+* "Описание языка разметки Textile в Википедии":https://ru.wikipedia.org/wiki/Textile
+* "A Textile Reference":http://redcloth.org/hobix.com/textile/
+* "TxStyle · Textile Documentation":https://txstyle.org/

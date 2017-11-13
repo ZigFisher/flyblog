@@ -1,0 +1,30 @@
+
+h3. -Организация взаимодействия между роутерами и Arduino- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "arduino":/tags#arduino | "hardware":/tags#hardware | "router":/tags#router
+
+---
+
+h4. Скрипты
+
+Скрипт на Bash, который читает с Arduino строку с состоянием датчиков и шлет на Narodmon.ru
+
+pre. #
+cd /tmp
+stty -F /dev/ttyACM0 raw speed 115200
+if read LINE; then
+  wget -O /dev/null --post-data "$LINE" narodmon.ru/post.php
+fi < $ARDUINO_PORT
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* -
+

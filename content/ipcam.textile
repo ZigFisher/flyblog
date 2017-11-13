@@ -1,0 +1,27 @@
+
+h3. IP камеры
+
+---
+
+p=. Проект реализован на оборудовании компании "MultiXvision":multixvision
+
+p=. Канал связи предоставляет компания "Крыминфоком":https://www.crimeainfo.com
+
+p=. (после нажатия на кнопку Play, необходимо подождать несколько секунд до начала трансляции)
+
+---
+
+
+p=. <iframe width="270" height="180" src="https://rtsp.me/embed/8qM6zbTY/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/4M8BcstG/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/Z2gTV1Pa/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/SuAJYgdf/" frameborder="0" allowfullscreen></iframe>
+
+p=. <iframe width="270" height="180" src="https://rtsp.me/embed/azCbkQ5F/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/IVDNCyaq/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/YTjoNFCI/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/swhXa9oB/" frameborder="0" allowfullscreen></iframe>
+
+p=. <iframe width="270" height="180" src="https://rtsp.me/embed/wYNc4SpR/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/7NKRY5MC/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/LcpEoRd4/" frameborder="0" allowfullscreen></iframe>
+
+p=. <iframe width="270" height="180" src="https://rtsp.me/embed/9HwpGTUN/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/9AwSJQPI/" frameborder="0" allowfullscreen></iframe> <iframe width="270" height="180" src="https://rtsp.me/embed/Dakq06hB/" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
