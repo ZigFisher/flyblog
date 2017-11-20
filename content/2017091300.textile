@@ -5,6 +5,23 @@ h5(. Tags: "draft":/tags#draft | "hardware":/tags#hardware | "mikrotik":/tags#mi
 
 ---
 
+h4. Скрипты
+
+p. Скрипт, который при обнаружении заданного MAC мобильного выполняет в период с 05 до 22 часов команды на удалённом ESP32
+
+pre. #
+:local MAC 4C:49:E3:00:00:00;
+:local time [/system clock get time];
+:local hour [: pick [/system clock get time] 0 2];
+:if ($hour >= 5 and $hour <= 22)do={:local MACdetect [interface wireless registration-table find mac-address=$MAC];
+:if ([:len $MACdetect]>0) do {
+  /tool fetch url="http://11.11.11.15/gpio\?st=1&pin=2"
+ } else={
+:if ([:len $MACdetect]=0) do {
+  /tool fetch url="http://11.11.11.15/gpio\?st=0&pin=2"
+
+---
+
 h4. Внутренние ссылки
 
 * -
@@ -13,5 +30,6 @@ h4. Внутренние ссылки
 
 h4. Внешние ссылки
 
+* "Автоматизация бэкапов Mikrotik с использованием SSH ключей":https://pikabu.ru/story/avtomatizatsiya_byekapov_5495167
 * "Полезные скрипты для mikrotik RouterOS":http://www.unix.ck.ua/content/skripy-dlya-mikrota
 * "Написание скриптов для RouterOS":https://telecom-sales.ru/content/stati/rukovodstvo-po-napisaniyu-skriptov-k-mikrotik-routeros/
