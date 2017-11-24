@@ -554,7 +554,7 @@
         }
       },
       select: {
-        fields: ["co2"]
+        fields: ["co2", "ccsco2"]
       }
     },
 
