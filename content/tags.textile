@@ -17,7 +17,7 @@ h4. Список тегов (черновик)
 * "icinga":/tags#icinga | "influxdb":/tags#influxdb | "info":/tags#info | "ipcam":/tags#ipcam
 * "linux":/tags#linux
 * "manual":/tags#manual | "markdown":/tags#markdown | "midge":/tags#midge | "mikrotik":/tags#mikrotik | "modem":/tags#modem
-* "nagios":/tags/nagios | "nfs":/tags/nfs | "notes":/tags/notes | "ntp":/tags/ntp
+* "nagios":/tags#nagios | "nfs":/tags#nfs | "notes":/tags#notes | "ntp":/tags#ntp
 * "printer":/tags#printer
 * "rally":/tags#rally | "router":/tags#router |  "ruby":/tags#ruby
 * "s3c2510":/tags#s3c2510 | "server":/tags#server | "siemens":/tags#siemens | "sinus1054":/tags#sinus1054 | "social":/tags#social | "software":/tags#software | "solution":/tags#solution | "snmp":/tags#snmp | "switch":/tags#switch
