@@ -560,6 +560,43 @@
 
 
     {
+      name: 'voc',
+      chart: {
+        title: 'Volatile Organic Compounds',
+        yAxis: {
+          title: {
+             text: 'ppm'
+          },
+          plotLines: [{
+            value: 400,
+            color: 'green',
+            dashStyle: 'shortdash',
+            width: 1,
+            label: {
+              text: 'Good'
+            }
+          }, {
+            value: 800,
+            color: 'red',
+            dashStyle: 'shortdash',
+            width: 1,
+            label: {
+              text: 'Warning'
+            }
+          }],
+        },
+        tooltip: {
+          crosshairs: true,
+          valueSuffix: ' ppm'
+        }
+      },
+      select: {
+        fields: ["ccstvoc"]
+      }
+    },
+
+
+    {
       name: 'val',
       chart: {
         title: 'Valuedes',
