@@ -463,15 +463,15 @@
     {
       name: 'usound',
       chart: {
-        title: 'Distance',
+        title: 'Ultrasound distance',
         yAxis: {
           title: {
-             text: 'Cm'
+             text: 'cm'
           }
         },
         tooltip: {
           crosshairs: true,
-          valueSuffix: ' Cm'
+          valueSuffix: ' cm'
         }
       },
       select: {
