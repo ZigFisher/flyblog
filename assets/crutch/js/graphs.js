@@ -49,7 +49,7 @@
         }
       },
       select: {
-        fields: ["field1", "field2"],
+        fields: ["test"],
         mac: /18FE349B/
       }
     },
@@ -456,6 +456,26 @@
       },
       select: {
         fields: ["pmv"]
+      }
+    },
+
+
+    {
+      name: 'usound',
+      chart: {
+        title: 'Distance',
+        yAxis: {
+          title: {
+             text: 'Cm'
+          }
+        },
+        tooltip: {
+          crosshairs: true,
+          valueSuffix: ' Cm'
+        }
+      },
+      select: {
+        fields: ["hcsr"]
       }
     },
 
