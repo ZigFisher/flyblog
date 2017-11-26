@@ -466,12 +466,12 @@
         title: 'Ultrasound distance',
         yAxis: {
           title: {
-             text: 'cm'
+             text: 'mm'
           }
         },
         tooltip: {
           crosshairs: true,
-          valueSuffix: ' cm'
+          valueSuffix: ' mm'
         }
       },
       select: {
