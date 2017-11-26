@@ -475,7 +475,7 @@
         }
       },
       select: {
-        fields: ["hcsr"]
+        fields: ["hcsr04"]
       }
     },
 
