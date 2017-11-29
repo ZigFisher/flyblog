@@ -11,6 +11,14 @@ p. Новый абзац  предложения
 
 ---
 
+h4. aconv
+
+* @avconv -i rtsp://10.0.1.10:554/video-stream -r 1 -vsync 1 -qscale 1 -f image2 images%09d.jpg@
+
+* "Grab a snapshot from an RTSP video stream every 1 second":https://gist.github.com/westonruter/4508842
+
+---
+
 h4. ffmpeg
 
 * @ffmpeg -i 1.mp3 -acodec copy -ss 00:03:44 -t 01:00:00 2.mp3@ - вырезать часть .mp3 файла
