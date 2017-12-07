@@ -7,7 +7,7 @@ h5(. Tags: "draft":/tags#draft | "github":/tags#github | "openwrt":/tags#openwrt
 
 h4. Введение
 
-!/images/2017101301.jpg!
+!https://github.com/ZigFisher/Glutinium/blob/master/tg-bot1/example1.png!
 
 ---
 
