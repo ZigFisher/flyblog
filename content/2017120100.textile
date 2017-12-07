@@ -1,0 +1,30 @@
+
+h3. -TG-Bot1 - простой Telegram бот для устройств с прошивкой OpenWrt- (черновик)
+
+h5(. Tags: "draft":/tags#draft | "github":/tags#github | "openwrt":/tags#openwrt | "software":/tags#software | "telegram":/tags#telegram
+
+---
+
+h4. Введение
+
+!/images/2017101301.jpg!
+
+---
+
+h4. Внутренние ссылки
+
+* -
+
+---
+
+h4. Внешние ссылки
+
+* "GitHub: TG-Bot1 - simple Telegram bot for OpenWrt based devices":https://github.com/ZigFisher/Glutinium/tree/master/tg-bot1
+* "GitHub: TG-Web - a minimalistic web interface for bots and automation systems":https://github.com/ZigFisher/Glutinium/tree/master/tg-web
+
+* "HabraHabr: Видеонаблюдение в подъезде своими силами":https://habrahabr.ru/post/343672/
+* "HabraHabr: Ещё один Telegram-бот для видеонаблюдения":https://habrahabr.ru/post/343616/
+* "Habrahabr: Телеграм-бот для домашнего видео-наблюдения из подручных материалов":https://habrahabr.ru/post/341678/
+
+* "Система видеонаблюдения WebGlazok позволяет удалённо наблюдать за различными объектами":https://webglazok.com
+
