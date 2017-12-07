@@ -12,16 +12,17 @@ h4. Список тегов (черновик)
 * "d-link":/tags#d-link | "debian":/tags#debian | "deliberant":/tags#deliberant | "diy":/tags#diy | "draft":/tags#draft
 * "esp8266":/tags#esp8266 | "energy":/tags#energy
 * "finance":/tags#finance | "firmware":/tags#firmware | "flyhub":/tags#flyhub | "flylift":/tags#flylift | "flymon":/tags#flymon | "flyrouter":/tags#flyrouter
-* "google":/tags#google | "gps":/tags#gps
+* "github":/tags#github | "google":/tags#google | "gps":/tags#gps
 * "hardware":/tags#hardware | "hwmod":/tags#hwmod | "hw-re":/tags#hw-re
 * "icinga":/tags#icinga | "influxdb":/tags#influxdb | "info":/tags#info | "ipcam":/tags#ipcam
 * "linux":/tags#linux
 * "manual":/tags#manual | "markdown":/tags#markdown | "midge":/tags#midge | "mikrotik":/tags#mikrotik | "modem":/tags#modem
 * "nagios":/tags#nagios | "nfs":/tags#nfs | "notes":/tags#notes | "ntp":/tags#ntp
+* "openwrt":/tags#openwrt
 * "printer":/tags#printer
 * "rally":/tags#rally | "router":/tags#router |  "ruby":/tags#ruby
 * "s3c2510":/tags#s3c2510 | "server":/tags#server | "siemens":/tags#siemens | "sinus1054":/tags#sinus1054 | "social":/tags#social | "software":/tags#software | "solution":/tags#solution | "snmp":/tags#snmp | "switch":/tags#switch
-* "technology":/tags#technology | "telemetry":/tags#telemetry | "test":/tags#test | "textile":/tags#textile | "tp-link":/tags#tp-link
+* "technology":/tags#technology | "telegram":/tags#telegram | "telemetry":/tags#telemetry | "test":/tags#test | "textile":/tags#textile | "tp-link":/tags#tp-link
 * "ubiquiti":/tags#ubiquiti | "ups":/tags#ups
 * "video":/tags#video | "voip":/tags#voip
 * "webcam":/tags#webcam | "wifi-iot":/tags#wifi-iot | "windows":/tags#windows
