@@ -1,5 +1,5 @@
 
-h3. -TG-Bot1 - простой Telegram бот для устройств с прошивкой OpenWrt- (черновик)
+h3. TG-Bot1 - простой Telegram бот для устройств с прошивкой OpenWrt
 
 h5(. Tags: "draft":/tags#draft | "github":/tags#github | "openwrt":/tags#openwrt | "software":/tags#software | "telegram":/tags#telegram
 
