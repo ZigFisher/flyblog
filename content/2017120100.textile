@@ -7,6 +7,8 @@ h5(. Tags: "draft":/tags#draft | "github":/tags#github | "openwrt":/tags#openwrt
 
 h4. Введение
 
+p. Исходный код проекта доступен на "GitHub":https://github.com/ZigFisher/Glutinium/tree/master/tg-bot1
+
 !https://raw.githubusercontent.com/ZigFisher/Glutinium/master/tg-bot1/example1.png!
 
 ---
