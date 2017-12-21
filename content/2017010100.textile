@@ -26,3 +26,11 @@ h4. ffmpeg
 * "HabraHabr: 19 команд ffmpeg для любых нужд":https://habrahabr.ru/post/171213/
 
 ---
+
+h4. yandex
+
+* wget -O 1.mp3 "https://tts.voicetech.yandex.net/generate?format=mp3&lang=ru-RU&speaker=zahar&emotion=good&key=you_key&text='Привет, давай дружить.'"
+
+* "Синтез речи средствами Yandex Speech Cloud":https://voxlink.ru/kb/asterisk-configuration/sintez-rechi-sredstvami-yandex-speech/
+
+---
