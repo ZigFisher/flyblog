@@ -1,0 +1,68 @@
+
+h1. Приветствуем Вас в проекте !
+
+---
+
+h3. Введение
+
+p. Базовая версия стартовой страницы с сылками на документацию по проекту <a href="https://openipc.org">OpenIPC</a>.
+
+p. Работа с IPCam, NVR, как и с роутерами, затрагивает некоторые фундаментальные вещи относящиеся к Linux, которые нет смысла добавлять в Wiki, достаточно привести основные ссылки на внешние ресурсы.
+
+---
+
+h3. Цели проекта
+
+p. Упорядочить информацию по платам IPCam и NVR на базе SoC HI35xx от Hisilicon.
+
+p. Отработать методы разборки и сборки после модификации оригинальных прошивок для IPCam и NVR.
+
+p. Создать для устройств открытую (на сколько позволяют китайские модули ядра) прошивку на базе OpenWrt.
+
+---
+
+h3. Информация из блога ZFT Lab.
+
+p. "Telegram, MQTT, Яндекс.Диск, WiFi и т.д. в IP камерах от Xiong Mai":https://zftlab.org/pages/2018010700.html - с чего начинался проект.
+
+p. "Трюки и хаки при экспериментах с IPCam от Xiong Mai":https://zftlab.org/pages/2018020100.html - это желательно знать и уметь каждому.
+
+p. "Запуск Buildroot и OpenWrt на устройствах с SoC Hisilicon":https://zftlab.org/pages/2018020900.html - подборка заметок при экспериментах.
+
+p. "Хакинг IP-камер на базе SoC HI3518":https://zftlab.org/pages/2015090300.html - первичные заметки несколько лет назад.
+
+p. "Управление домашней автоматизацией через Telegram":https://zftlab.org/pages/2017082100.html - краткая инструкция.
+
+---
+
+h3. Репозитории, имеющие отношение к проекту OpenIPC
+
+p. "OpenWrt Chaos Calmer for HiSilicon":https://github.com/ZigFisher/chaos_calmer - форк OpenWrt и основной архив проекта для HiSilicon IPC и NVR.
+
+p. "Glutinium from ZFT Lab.":https://github.com/ZigFisher/Glutinium - подборка програмного обеспечения (feed) для использования в видеокамерах и роутерах.
+
+p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ - архив прошивок и программ для OpenWrt HiSilicon IPC и NVR.
+
+---
+
+h3. Ссылки на архивы Hisilicon MPP, SDK и документацию
+
+p. "Hisilicon HI35xx MPP collection":https://github.com/ZigFisher/hisilicon_mpp - наша обновляемая коллекция MPP из Hisilicon SDK.
+
+p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации.
+
+p. "Some SDK documentation":http://flyrouter.net/downloads/software/ipcam/SDK_documents/ - небольшая подборка документации от SDK на процессоры Hisilicon.
+
+p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/SDK/ - наш собственный SDK для Hisilicon на базе OpenWrt. 
+
+---
+
+h3. Избранные ссылки от завсегдатаев с Telegram канала
+
+p. "xmeye sofia dvr nvr ipcam config":https://github.com/NeiroNx/python-dvr - массовое управление IPC и NVR через python скрипт.
+
+---
+
+h3. Демонстрация проектов от коллег
+
+p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.

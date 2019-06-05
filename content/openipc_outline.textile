@@ -1,0 +1,13 @@
+h1. План работ
+
+---
+
+p. Добавить в загрузчик фичи по WEB-интерфейсу и возможности управления через UDP
+
+p. Перенести сборку рабочего U-boot для Hisilicon из Buildroot в OpenWrt
+
+p. Сделать грязный патч от Hisilicon для ядра 3.18.20 к armv5tej устройствам v3
+
+p. Выложить все имеющиеся "версии":https://github.com/ZigFisher/hisilicon_mpp Hisilicon MPP и OSDRV на "GitHub":https://github.com/ZigFisher
+
+
