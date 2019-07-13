@@ -49,9 +49,7 @@ h3. Ссылки на архивы Hisilicon MPP, SDK и документаци�
 
 p. "Hisilicon HI35xx MPP collection":https://github.com/ZigFisher/hisilicon_mpp - наша обновляемая коллекция MPP из Hisilicon SDK.
 
-p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации.
-
-p. "Some SDK documentation":http://flyrouter.net/downloads/software/ipcam/SDK_documents/ - небольшая подборка документации от SDK на процессоры Hisilicon.
+p. "Hisilicon SDK archive":https://dl.openipc.org:84/SDK - большая подборка SDK на процессоры Hisilicon.
 
 p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/SDK/ - наш собственный SDK для Hisilicon на базе OpenWrt. 
 
